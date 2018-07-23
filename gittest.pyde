@@ -4,4 +4,5 @@ def setup():
     rect(50, 50, 50, 50)
 
 def draw():
-    pass
+    background(255)
+    background(152)
